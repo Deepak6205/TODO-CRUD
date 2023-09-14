@@ -32,12 +32,9 @@ ___
 6. [Getting Started](#getting-started)
 7. [Usage](#usage)
 8. [API Endpoints](#api-endpoints)
-9. [Screenshots](#screenshots)
-10. [Known Issues](#known-issues)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Acknowledgments](#acknowledgments)
-14. [Contact](#contact)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+11. [Contact](#contact)
 
 <!-- Project Overview -->
 ## Overview
