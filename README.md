@@ -11,7 +11,7 @@ ___
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.0-brightgreen.svg" />
 </a>
   </a>
-    <img alt = "License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+     <img alt = "GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
     </a>
 </p>
 
@@ -95,7 +95,7 @@ The application uses an in-memory list of ToDo items for simplicity.
 
 <!-- License -->
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 <!-- Acknowledgments -->
 ## Acknowledgments
